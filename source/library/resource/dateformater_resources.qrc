@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/dateformater_translations">
+        <file alias="ru">locale/dateformater_ru.qm</file>
+        <file alias="en">locale/dateformater_en.qm</file>
+    </qresource>
+</RCC>
