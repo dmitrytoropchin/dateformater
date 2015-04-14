@@ -44,7 +44,7 @@ TRANSLATIONS = \
     resource/locale/dateformater_ru.ts
 
 INSTALL_HEADERS = \
-    $$CARDVIEW_PUBLIC_HEADERS
+    $$DATEFORMATER_PUBLIC_HEADERS
 
 target.path = $$INSTALL_LIBS_DIR
 
